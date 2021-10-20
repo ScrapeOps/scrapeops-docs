@@ -55,11 +55,11 @@ In this mode the ScrapeOps SDK will log all your scraping stats and generate sta
 
 **Detailed Read:** [ScrapeOps SDK Installation Guide](https://github.com/ScrapeOps/scrapeops-docs/blob/main/scrapy/scrapy-sdk-setup.md)
 
-### <a name="scrapyd_mode" href="https://github.com/ScrapeOps/scrapeops-docs/blob/main/manage.md"></a> 2) ScrapyD Manager Mode
+### <a name="scrapyd_mode" href=""></a> 2) ScrapyD Manager Mode
 In this mode, if you connect ScrapeOps with your ScrapyD server you will be able to schedule and manage your ScrapyD spiders via the ScrapeOps dashboard. 
 
 :heavy_exclamation_mark: **Note:** To use the stats, graphs and alerts functionality of ScrapeOps, you need to install the ScrapeOps SDK in your Scrapy spiders.
 
-**Read:** [ScrapeOps ScrapyD Integration Guide]()
+**Read:** [ScrapeOps ScrapyD Integration Guide](https://github.com/ScrapeOps/scrapeops-docs/blob/main/manage-readme.md)</a>
 
  
