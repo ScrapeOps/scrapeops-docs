@@ -48,17 +48,17 @@ There are 2 way you can use ScrapeOps:
 
 
 
-### <a name="logger_mode"></a> 1) Spider Logger Mode
+### <a name="logger_mode" href="https://github.com/ScrapeOps/scrapeops-docs/blob/main/logger-readme.md"></a> 1) Spider Logger Mode
 In this mode the ScrapeOps SDK will log all your scraping stats and generate statistics, graphs and trigger alerts on the ScrapeOps dashboard. Getting setup is very easy, you just need to add 3 lines to your Scrapy projects `settings.py` file and the ScrapeOps SDK will take care of the rest. 
 
 
 
 **Detailed Read:** [ScrapeOps SDK Installation Guide](https://github.com/ScrapeOps/scrapeops-docs/blob/main/scrapy/scrapy-sdk-setup.md)
 
-### <a name="scrapyd_mode"></a> 2) ScrapyD Manager Mode
-In this mode, if you connect ScrapeOps with your ScrapyD server you will be able to schedule and manager your ScrapyD spiders via the ScrapeOps dashboard. 
+### <a name="scrapyd_mode" href="https://github.com/ScrapeOps/scrapeops-docs/blob/main/manage.md"></a> 2) ScrapyD Manager Mode
+In this mode, if you connect ScrapeOps with your ScrapyD server you will be able to schedule and manage your ScrapyD spiders via the ScrapeOps dashboard. 
 
-:heavy_exclamation_mark: **Note:** To use the stats, graphs and alerts functionality of ScrapeOps then you need to install the ScrapeOps SDK in your Scrapy spiders.
+:heavy_exclamation_mark: **Note:** To use the stats, graphs and alerts functionality of ScrapeOps, you need to install the ScrapeOps SDK in your Scrapy spiders.
 
 **Read:** [ScrapeOps ScrapyD Integration Guide]()
 
